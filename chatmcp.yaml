@@ -1,0 +1,7 @@
+mcpServers:
+  date-tool-mcp:
+    command: python
+    args:
+      - D:\PythonProject1\mcpmcp\server.py
+    env:
+      FASTMCP_LOG_LEVEL: INFO
